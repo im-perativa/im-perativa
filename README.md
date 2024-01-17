@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=im-perativa&no-bg=true&row=1&theme=darkhub&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=im-perativa&show_icons=true&theme=dark"
